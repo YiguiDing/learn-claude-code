@@ -139,5 +139,6 @@ python s06.context_compact.py
 
 ## 参考
 
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 - [Anthropic Messages API](https://docs.anthropic.com/en/api/messages)
 - [DashScope](https://dashscope.aliyun.com/)
